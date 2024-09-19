@@ -9,3 +9,7 @@ Answer: Data science can be applied to the healthcare field. An example of this 
 Q3: What is the difference between merging and rebasing?
 
 Answer: Merging code means trying to reconcile overlapping changes to commits on different branches, whereas rebasing means moving or rewriting the commit history of a branch. Merging preserves the entire history of the repository, but rebsaing creates a linear history, moving the branch straight onto main.
+
+Q4: What skills do you hope to improve during this course?
+
+Answer: I hope to improve my technical skills in data science with Python and Pandas as they are both used heavily in the real world. Additionally, I hope to improve my analytical reasoning skills through our group project to become more well-rounded.
