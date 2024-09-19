@@ -1,3 +1,7 @@
 Q1: Why might be consider using git?
 
 Answer: Git allows us to easily share and collaborate on code. It also allows us to have a version control solution that is not local to our machine.
+
+Q2: What field could data science be applied to? Give and Example and how it might help
+
+Answer: Data science can be applied to the healthcare field. An example of this is using data science and training models to predict the spread of an outbreak based on a dataset. Similar models can be trained based on data of a medicine's effectiveness.
